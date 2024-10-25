@@ -14,7 +14,6 @@ I believe that great code is like a well-orchestrated symphony—clean, efficien
 
 When I’m not glued to my keyboard, you’ll find me exploring cutting-edge AI models, contributing to open-source projects, or brainstorming my next blog post. If you're into creative tech solutions, inspiring ideas, or just a good conversation about the future of AI—let's connect!
 
-
 ---
 
 ### 🛠️ Technologies & Tools
